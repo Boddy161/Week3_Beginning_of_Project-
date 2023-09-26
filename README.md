@@ -27,10 +27,10 @@
 
 - **ScreenShot of API:**
 
-  ![](/Users/rogersyang/Library/CloudStorage/OneDrive-UniversityofToronto/University of Toronto/UofT Year 3/UofT 2023 F/CSC207/Week3/screenshots/hopps_test.png)
-
+<img height="75%" src="screenshots/hopps_test.png" width="75%"/>
+  
 - **Example Output:**
 
-  ![](/Users/rogersyang/Library/CloudStorage/OneDrive-UniversityofToronto/University of Toronto/UofT Year 3/UofT 2023 F/CSC207/Week3/screenshots/java_out.png)
+<img src="screenshots/java_out.png" width="100%">
 
 - **Technical Problems:**
