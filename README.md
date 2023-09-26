@@ -22,15 +22,17 @@
     - Detecting profile information and classifications
   - Google Calendar API: https://developers.google.com/calendar
     - Set up available time based on personal calendar
-  - Kickbox Email Auth API: https://open.kickbox.com/
+  - **Used as Example:** Kickbox Email Auth API: https://open.kickbox.com/
     - Verifying only university emails are allowed to register to the system. Avoid fraud.
 
 - **ScreenShot of API:**
 
 <img height="75%" src="screenshots/hopps_test.png" width="75%"/>
   
-- **Example Output:**
+- **Example Output from Java:**
 
 <img src="screenshots/java_out.png" width="100%">
 
 - **Technical Problems:**
+  - Issues with importing dependencies and private variables (e.g. APIKEY and email) to API calls.
+  - Importing the Java library to the current repo.
