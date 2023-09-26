@@ -1,7 +1,7 @@
 # Week3
 
 ## Project Information
-- **Project Name:** CourseMate Connect
+- **Project Name:** CourseMate Connect (Tentative)
 
 - **Project Domain:** Dating App
 
@@ -14,4 +14,15 @@
   and even mentor/mentees on their campus. The basic format will be similar to a dating app like Tinder or Soul, students
   can upload their personal profile, including information like name, age, gender, gpa,... More importantly are the courses
   they are taking this semester and what kind of relationships are they seeking. This would be easier for "lonely" students
-  to find course mates easier and faster without sending extensive messages and waiting for replies on forums like Piazza or Ed.
+  to find course mates easier and faster without sending extensive messages and waiting for replies on forums like 
+  Piazza or Ed.
+
+- **API List:** (Tentative)
+  - Twilio Conversations API: https://www.twilio.com/en-us/messaging/conversations-api
+    - For real time 1on1 chat and group chat (potentially)
+  - Google Cloud Natural Language API: https://cloud.google.com/natural-language/docs
+    - Detecting profile information and classifications
+  - Google Calendar API: https://developers.google.com/calendar
+    - Set up available time based on personal calendar
+  - Kickbox Email Auth API: https://open.kickbox.com/
+    - Verifying only university emails are allowed to register to the system. Avoid fraud.
