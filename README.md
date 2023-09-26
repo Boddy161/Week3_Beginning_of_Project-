@@ -27,10 +27,10 @@
 
 - **ScreenShot of API:**
 
-  <img height="75%" src="/Users/rogersyang/Library/CloudStorage/OneDrive-UniversityofToronto/University of Toronto/UofT Year 3/UofT 2023 F/CSC207/Week3/screenshots/hopps_test.png" width="75%"/>
+  ![](/Users/rogersyang/Library/CloudStorage/OneDrive-UniversityofToronto/University of Toronto/UofT Year 3/UofT 2023 F/CSC207/Week3/screenshots/hopps_test.png)
 
 - **Example Output:**
-  
-  <img src="/Users/rogersyang/Library/CloudStorage/OneDrive-UniversityofToronto/University of Toronto/UofT Year 3/UofT 2023 F/CSC207/Week3/screenshots/java_out.png" width="100%"/>
+
+  ![](/Users/rogersyang/Library/CloudStorage/OneDrive-UniversityofToronto/University of Toronto/UofT Year 3/UofT 2023 F/CSC207/Week3/screenshots/java_out.png)
 
 - **Technical Problems:**
